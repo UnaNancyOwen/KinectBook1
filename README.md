@@ -1,4 +1,4 @@
-Kinect for Windows SDK プログラミングガイド
+﻿Kinect for Windows SDK プログラミングガイド
 ===========================================
 
 書籍「Kinect for Windows SDK プログラミングガイド」のサンプルプログラム
@@ -24,8 +24,8 @@ Kinect for Windows SDK プログラミングガイド
   - <https://twitter.com/shobomaru>
 
 
-出版社(工学社)
---------------
+工学社
+------
 * 書籍情報
   <http://www.kohgakusha.co.jp/books/detail/978-4-7775-1726-8>
 
