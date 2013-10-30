@@ -16,11 +16,11 @@
 著者
 ----
 * 杉浦 司
-    * t.sugiura0204@gmail.com
+    * <t.sugiura0204@gmail.com>
     * <https://twitter.com/UnaNancyOwen>
 
 * 岩崎 秀介
-    * shobomaru@gmail.com
+    * <shobomaru@gmail.com>
     * <https://twitter.com/shobomaru>
 
 
