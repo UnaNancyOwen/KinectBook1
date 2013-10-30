@@ -26,8 +26,5 @@
 
 工学社
 ------
-* 書籍情報
-  <http://www.kohgakusha.co.jp/books/detail/978-4-7775-1726-8>
-
-* 書籍サポート情報
-  <http://www.kohgakusha.co.jp/support/kinect/index.html>
+* 書籍情報 <http://www.kohgakusha.co.jp/books/detail/978-4-7775-1726-8>
+* 書籍サポート情報 <http://www.kohgakusha.co.jp/support/kinect/index.html>
