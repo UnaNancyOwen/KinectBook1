@@ -18,7 +18,7 @@
 * 杉浦 司
     * <t.sugiura0204@gmail.com>
     * <https://twitter.com/UnaNancyOwen>
-    * <http://www.UnaNancyOwen.com>
+    * <http://UnaNancyOwen.com>
 
 * 岩崎 秀介
 
