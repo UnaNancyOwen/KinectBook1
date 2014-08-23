@@ -6,11 +6,17 @@
 
 動作確認環境
 ------------
-* Kinect for WIndows SDK v1.6
-* Kinect for Windows Developer Toolkit v1.6.0
-* OpenCV 2.4.2
-* DirectX SDK (June 2010)
-* Visual C++ 2010 Express
+* [Kinect for WIndows SDK v1.6](http://www.microsoft.com/en-us/download/details.aspx?id=34808 "Kinect for Windows SDK v1.6 | Microsoft Download Center")
+* [Kinect for Windows Developer Toolkit v1.6.0](http://www.microsoft.com/en-us/download/details.aspx?id=34807 "Kinect for Windows Developer Toolkit v1.6 | Microsoft Download Center")
+* [OpenCV 2.4.2](http://opencv.org/ "OpenCV.org")
+* [DirectX SDK (June 2010)](http://www.microsoft.com/en-us/download/details.aspx?id=6812 "DirectX Software Development Kit | Microsoft Download Center")
+* [Visual C++ 2010 Express](http://go.microsoft.com/?linkid=9709955 "Visual C++ 2010 Express - Japanese Web Installer")
+
+
+ライセンス
+----------
+Copyright &copy; 2012 Tsukasa SUGIURA, Syusuke IWASAKI
+Distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php "MIT License | Open Source Initiative").
 
 
 著者
