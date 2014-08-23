@@ -15,7 +15,7 @@
 
 ライセンス
 ----------
-Copyright &copy; 2012 Tsukasa SUGIURA, Syusuke IWASAKI
+Copyright &copy; 2012 Tsukasa SUGIURA, Syusuke IWASAKI  
 Distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php "MIT License | Open Source Initiative").
 
 
